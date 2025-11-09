@@ -1,7 +1,3 @@
-# 📘 Probability and Statistics Simulation Lab
-# Author: [Your Name]
-# Date: [Current Date]
-# Topic: Basics of Probability, Conditional Probability, Random Variables, CLT
 
 import random
 import numpy as np
